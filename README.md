@@ -2,10 +2,10 @@
 Auth, Posts, Comments on posts, profile web app
 
 get project
-# clone repository to your PC
+## clone repository to your PC
 
 install project dependencies
-# npm install
+## npm install
 
 run local
-# nodemon app.js
+## nodemon app.js
